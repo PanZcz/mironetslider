@@ -1,4 +1,4 @@
-<script>
+<style>
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
 .mySlides {display: none;}
@@ -78,4 +78,4 @@ top: 7%;
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
-</script>
+</style>
